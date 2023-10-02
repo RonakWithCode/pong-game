@@ -24,7 +24,7 @@ A classic Pong game built with HTML, CSS, and JavaScript. Play against an AI opp
 
 ## Demo
 
-You can play a live demo of the Pong game [here](link-to-demo).
+You can play a live demo of the Pong game [here](https://crazy-studio-website.web.app/).
 
 ## Getting Started
 
